@@ -1,2 +1,1 @@
-# multiagentes
-Modelación de sistemas multiagentes con gráficas computacionales (Gpo 303)
+# Modelación de sistemas multiagentes con gráficas computacionales (Gpo 303)
